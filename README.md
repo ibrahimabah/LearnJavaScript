@@ -10,6 +10,8 @@ The Syllabus focuses on these key areas:
 - Mobile development
 - Web development
 
+[codeacademy:Learn JavaScript](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
+
 
 
 
