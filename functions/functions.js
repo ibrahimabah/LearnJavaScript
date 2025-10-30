@@ -1,0 +1,16 @@
+// functions declaration
+function getReminder(){
+  console.log('Water the plants.');
+}
+
+function greetInSpanish() {
+  console.log('Buenas tardes.')
+}
+
+// calling a function
+function sayThanks() {
+  console.log('Thank you for your purchase! We appreciate your business.');
+}
+
+sayThanks() // prints the message in  the function
+
